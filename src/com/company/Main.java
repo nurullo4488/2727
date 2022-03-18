@@ -4,5 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(Box.box());
+        System.out.println(Box.box2());
     }
 }
